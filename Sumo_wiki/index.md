@@ -2,6 +2,13 @@
 
 > 會自己長大的百科全書
 
+## 🎯 核心準則
+
+**必讀**：[SOUL.md](./SOUL.md) - SumoNoteBook 靈魂準則
+（三層架構 + 三個流程 + 兩個特殊檔案）
+
+---
+
 ## 總目錄
 
 ### 📂 概念筆記 (concepts/)
@@ -12,6 +19,13 @@
 
 ### 🔗 反向連結 (backlinks/)
 - 存放反向連結索引
+
+### 📋 活動日誌 (log.md)
+- 追蹤 INGEST/LINT 活動
+
+### 🎯 核心準則 (SOUL.md)
+- 三層架構（Raw → Wiki → Schema）定義
+- Ingest/Query/Lint 流程規則
 
 ---
 
