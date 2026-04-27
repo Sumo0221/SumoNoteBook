@@ -1,0 +1,21 @@
+# SumoNoteBook 主題監控設定
+# 用於每日早晨/下午自動研究
+
+topics:
+  - id: ai
+    name: AI 人工智慧
+    keywords: [人工智慧, AI, LLM, GPT, GPT-4, OpenAI, Claude, 生成式AI]
+    refresh_interval: twice_daily
+    alert_threshold: major_development
+
+  - id: finance
+    name: 財經
+    keywords: [股票, 投資, 經濟, 股市, 台股, 美股,  Fed, 通膨, AI晶片]
+    refresh_interval: twice_daily
+    alert_threshold: significant_change
+
+  - id: tech
+    name: 科技趨勢
+    keywords: [科技, iPhone, AI手機, 半導體, 晶片, IC設計]
+    refresh_interval: twice_daily
+    alert_threshold: product_announcement

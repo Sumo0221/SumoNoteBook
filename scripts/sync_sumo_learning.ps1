@@ -62,4 +62,22 @@ foreach ($f in $sourceFiles) {
 }
 Write-Host "  Done: $count files"
 
+# Sync professor
+Write-Host "Syncing professor learning..."
+$dest = "$DEST_BASE\professor"
+if (!(Test-Path $dest)) { New-Item -ItemType Directory -Path $dest -Force | Out-Null }
+# 複製所有 docs 目錄下的開發記錄
+$sourceDir = "$SOURCE_BASE\workspace\docs"
+if (Test-Path $sourceDir) {
+    $files = Get-ChildItem $sourceDir -File
+    $count = 0
+    foreach ($f in $files) {
+        Copy-Item $f.FullName -Destination "$dest\$($f.Name)" -Force
+        $count++
+    }
+    Write-Host "  Done: $count files from docs/"
+} else {
+    Write-Host "  No docs directory found"
+}
+
 Write-Host "All done!"

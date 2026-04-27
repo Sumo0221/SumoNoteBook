@@ -1,0 +1,16 @@
+{
+  "name": "sumo-notebook-scripts",
+  "version": "1.0.0",
+  "description": "RAG ingestion and query scripts for SumoNoteBook",
+  "type": "module",
+  "main": "ingest_notebook.mjs",
+  "scripts": {
+    "ingest": "node ingest_notebook.mjs",
+    "ingest:rebuild": "node ingest_notebook.mjs --rebuild",
+    "query": "node query_notebook.mjs"
+  },
+  "dependencies": {
+    "@lancedb/lancedb": "^0.26.2",
+    "openai": "^6.33.0"
+  }
+}

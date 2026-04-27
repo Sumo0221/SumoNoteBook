@@ -1,0 +1,49 @@
+{
+  "people": {
+    "master": {
+      "preferences": {},
+      "research_topics": [
+        "股票分析"
+      ],
+      "mood": "開心",
+      "last_updated": "2026-04-25T05:28:05.542439"
+    },
+    "sunny": {
+      "applications": [
+        {
+          "school": "台大",
+          "status": "面試中",
+          "notes": "已完成第一階段",
+          "updated": "2026-04-25"
+        }
+      ],
+      "exam_scores": {
+        "學測": 55
+      },
+      "last_updated": "2026-04-25T05:28:05.543731"
+    }
+  },
+  "stocks": {
+    "2330": {
+      "positions": [
+        {
+          "date": "2026-04-25",
+          "quantity": 100,
+          "price": 800,
+          "type": "buy"
+        }
+      ],
+      "total_cost": 80000,
+      "realized_pnl": 0,
+      "last_updated": "2026-04-25T05:28:05.544321"
+    }
+  },
+  "projects": [
+    "Lint",
+    "Algorithms",
+    "Left",
+    "Prompt",
+    "Bellman",
+    "Auto"
+  ]
+}

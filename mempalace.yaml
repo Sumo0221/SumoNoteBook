@@ -1,0 +1,16 @@
+wing: sumonotebook
+rooms:
+- name: documentation
+  description: Files from docs/
+- name: learning
+  description: Files from learning/
+- name: raw
+  description: Files from raw/
+- name: research
+  description: Files from research/
+- name: scripts
+  description: Files from scripts/
+- name: sumo_wiki
+  description: Files from Sumo_wiki/
+- name: general
+  description: All other files

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SumoNoteBook Dashboard</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #1a1a2e; color: #eee; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #e94560; margin-bottom: 30px; }
+        h2 { color: #0f3460; margin: 20px 0 10px; border-left: 4px solid #e94560; padding-left: 10px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .card { background: #16213e; border-radius: 10px; padding: 20px; }
+        .card h3 { color: #e94560; margin-bottom: 10px; }
+        .stat { font-size: 2.5em; color: #0f3460; font-weight: bold; }
+        .stat-label { color: #888; font-size: 0.9em; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { text-align: left; padding: 8px; border-bottom: 1px solid #333; }
+        th { color: #e94560; }
+        tr:hover { background: #1f2f50; }
+        .tag { display: inline-block; background: #0f3460; padding: 3px 8px; border-radius: 4px; margin: 2px; font-size: 0.85em; }
+        .recent-item { padding: 8px; border-bottom: 1px solid #333; }
+        .recent-item:last-child { border-bottom: none; }
+        .date { color: #888; font-size: 0.8em; }
+        .category { color: #e94560; font-size: 0.8em; }
+        a { color: #4cc9f0; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 SumoNoteBook Dashboard</h1>
+        <p style="color:#888; margin-bottom:30px;">Generated: 2026-04-25 05:28:18</p>
+        
+        <div class="grid">
+            <div class="card">
+                <h3>📊 總檔案數</h3>
+                <div class="stat">0</div>
+                <div class="stat-label">wiki pages</div>
+            </div>
+            <div class="card">
+                <h3>🔗 總連結數</h3>
+                <div class="stat">0</div>
+                <div class="stat-label">cross-references</div>
+            </div>
+            <div class="card">
+                <h3>📝 總字數</h3>
+                <div class="stat">0</div>
+                <div class="stat-label">characters</div>
+            </div>
+            <div class="card">
+                <h3>🔀 平均連結</h3>
+                <div class="stat">0.0</div>
+                <div class="stat-label">links per page</div>
+            </div>
+        </div>
+        
+        <h2>📁 分類分佈</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>💡 概念</h3>
+                <div class="stat">0</div>
+            </div>
+            <div class="card">
+                <h3>📝 摘要</h3>
+                <div class="stat">0</div>
+            </div>
+            <div class="card">
+                <h3>❓ 問答</h3>
+                <div class="stat">0</div>
+            </div>
+        </div>
+        
+        <div class="grid">
+            <div class="card">
+                <h2>🏆 最常連結的頁面</h2>
+                <table>
+                    <tr><th>頁面</th><th>引用次數</th></tr>
+                </table>
+            </div>
+            
+            <div class="card">
+                <h2>🏷️ 熱門標籤</h2>
+                <div>
+                </div>
+            </div>
+        </div>
+        
+        <h2>🕐 最近更新</h2>
+        <div class="card">
+        </div>
+        
+        <h2>🔄 Ingest 流程</h2>
+        <div class="card">
+            <p>1. <strong>資料清理</strong> → 刪除重複、清理過時檔案</p>
+            <p>2. <strong>知識萃取</strong> → 建立卡片、建立連結</p>
+            <p>3. <strong>校準</strong> → 人類檢查、修正</p>
+            <p>4. <strong>維護</strong> → 定期更新</p>
+        </div>
+        
+        <footer style="margin-top:40px; padding:20px; text-align:center; color:#666;">
+            <p>SumoNoteBook - 蘇茉家族的知識庫 | 基於 Karpathy LLM Wiki 概念</p>
+        </footer>
+    </div>
+</body>
+</html>

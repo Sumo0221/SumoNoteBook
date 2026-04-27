@@ -1,0 +1,280 @@
+{
+  "entries": [
+    {
+      "date": "2026-04-22 23:02:57",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_230257_用 NotebookLM 搭配 Clau.md",
+      "tags": "機器學習, 自然語言處理, 數據科學",
+      "summary": "### 第一層：白話解構\n這篇文章主要講述如何使用 NotebookLM 與 Claude 導論工具搭配來降低 Token 成本，並分享了一個實戰方法。\n\n文章主旨在介紹一種降低模型運行成本的方法，目標讀者可能是對 NLP 模型和生成式 AI 有所興趣的用戶，例如技術工作者或研究人員。\n\n### 第二層：技術驗證\n**claims（斷言）**：\n1. 使用 NotebookLM 可大幅減少 tok"
+    },
+    {
+      "date": "2026-04-22 21:59:59",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_215959_.md",
+      "tags": "設計, CSS, 創新",
+      "summary": "### 第一層：白話解構\n\n這篇文章介紹了一個名叫 Studio0808 的 AI 影音工具站，並提供了詳細的導覽指引和使用方法。文章主要介紹了該平台的一些核心功能和服务，例如人聲與伴奏分離、AI 生成字幕等，並且列出了支持這些功能的主要技術。\n\n### 第二層：技術驗證\n\n1. **claims**：\n   - Studio0808 提供了一個包含多種 AI 影音工具的站台。\n   - 網站提供"
+    },
+    {
+      "date": "2026-04-22 16:49:37",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_164937_OpenMythos.md",
+      "tags": "機器學習, 自然語言處理, 算法",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n\n本文介紹了名为 OpenMythos 的开源项目，它是一个基于 Claude Mythos 模型的开放源代码实现。该模型使用了一个带有三个阶段的递归深度变换器 (RDT) 架构——“序曲”（transformer 结构）、一个循环“块”以及最终的“尾声”。文章还介绍了项目的安装方法和基本使用流程，包括如何通过简单的命令行或Python代码"
+    },
+    {
+      "date": "2026-04-22 16:38:36",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_163836_.md",
+      "tags": "",
+      "summary": "## 第一層：白話解構\n\n### 用三句話解釋：\n這篇文章講的是如何設計更優質的程式碼代理(agent)，並提出了一套理論框架，來解決多個代理之間協調和分工問題。\n\n### 主要說的故事或概念：\n文章介紹了多種代理(agent)的不同能力，并通过Cognitive Load Theory(CLT)来分析这些代理在工作中需要处理的任务类型及其对开发者的认知负担。作者提出，使用CLT可以更好地理解并改"
+    },
+    {
+      "date": "2026-04-22 16:20:26",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_162026_.md",
+      "tags": "前端設計, 前端程式碼, 網站架構",
+      "summary": "### 第一層：白話解構\n\n這篇文章主要介紹了 Claude Design 的系統提示設計，並提供了一些基本的 CSS 過濾器和樣式設置。文章目的是為了幫助讀者了解如何在設計中應用這些風格與效果。\n\n### 第二層：技術驗證\n\n#### 條件（claims）\n\n1. 提供了一套 CSS 样式和函數用於設計頁面。\n2. 描述了如何使用 `filter` 和 `linear-gradient` 來創建"
+    },
+    {
+      "date": "2026-04-22 16:16:27",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_161627_ Claude Design系統提示解剖.md",
+      "tags": "人工智能, 人工智慧, AI设计",
+      "summary": "## 第一層：白話解構\n### 這篇文章在講什麼？\n文章主要介紹了Claude Design的System Prompt，它被解析出來的内容包含了五個層次的指南，分别是身份与護欄、设计品味、工作流程、工具与协議、技术规范。每层的内容都越来越具体和有实际的应用价值。\n\n### 主要在說什麼故事或概念？\n文章探讨了如何将资深设计师的经验和习惯编码到AI提示词中，以及这些提示词背后的结构和技术细节。重点"
+    },
+    {
+      "date": "2026-04-22 15:08:54",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_150854_.md",
+      "tags": "人工智能, 智能助理, 研究管道",
+      "summary": "## 第一層：白話解構\n\n### 這篇文章在講什麼？\n\n文章主要介紹了一個專門為OpenClaw等代理機器人開發的研究管道，它會根據預設主題進行兩次每日監控，通過整合不同時間的信号來產生結構化的摘要。該研究管道並非簡單的新聞聚合工具，而是一個可以識別和呈現變化信息的系統。\n\n### 主要在說什麼故事或概念？\n\n文章介紹了一套為代理機器人定制的研究框架，包括主題安裝、預設配置以及如何監控特定主題的詳"
+    },
+    {
+      "date": "2026-04-22 14:29:47",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_142947_.md",
+      "tags": "程式語言, 音頻處理, 影片編輯",
+      "summary": "### 第一層：白話解構\n\n#### 1. 發文章在講什麼？\n- 文章介紹了一個名為 `video-use` 的工具，可以使用 Claude Code 編輯視頻。\n- 它提供了一些技術特性來自動編輯視頻，包括刪除廢話、自動色彩校正、添加漸變背景，以及自定義標籤等。\n\n#### 2. 主要在說什麼故事或概念？\n- 文章描述了一個基於 Claude Code 的工具，能夠自動化編輯視頻的過程。\n- 傳"
+    },
+    {
+      "date": "2026-04-22 10:03:37",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_100337_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "## 第一層：白話解構\n\n### 這篇文章在講什麼？\n\n- 文章作者李思萱分享了她對使用 AI 語言模型生成文章的觀點和辨識技巧。\n- 她通過五個判準來區分 AI 擴散的文章和真實的人類寫作，這些判準包括句型、氣味、排比等特徵。\n- 推廣一個新理論：「AI 文體」的標誌性特徵。\n\n### 主要在說什麼故事或概念？\n\n- 作者提出了五個辨識點來區分 AI 擴散的文章和真實的人類寫作，這些辨識點包括句"
+    },
+    {
+      "date": "2026-04-22 09:57:08",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_095708_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n- 文章主要討論如何識別「像AI」的文章，并提供了五个具体的辨识点和例子。\n- 它探讨了人工智能生成文章的一些特征及其可能的不当之处，强调了“人味”的重要性。\n- 目标读者是希望了解和辨别AI文章的人。\n\n#### 主要在說什麼故事或概念？\n- 文章分析了几个常见的「像AI」的文章特征，并且提出了如何避免这些错误的方法。\n- 它试图帮助人们"
+    },
+    {
+      "date": "2026-04-22 09:27:40",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_092740_逆向開源版 Claude Design.md",
+      "tags": "AI技術, 創意開發工具, 標準化開源",
+      "summary": "### 第一層：白話解構\n這篇文章講的是「逆向開源版 Claude Design」這個工具，作者陳盟升介紹了一個新的設計工具，能夠直接通過終端機和自然語言指令生成能點擊互動的原型與動畫。這個工具不需要複雜的圖形軟體，只需一則指令就能立即得到成品。\n\n文章目標讀者是對技術有興趣的人，尤其是希望利用AI來改善設計流程的開發人員或專業人士。\n\n### 第二層：技術驗證\n- **claims**: 過去需"
+    },
+    {
+      "date": "2026-04-22 07:39:02",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_073902_.md",
+      "tags": "[程式設計], [認知負擔理論], [AI代理]",
+      "summary": "## 第一層：白話解構\n\n### 故事或概念概述：\n文章作者從最近的技術趨勢和 Cognitive Load Theory (CLT) 原理出發，提出了如何設計更有效率的 Agent System 的一套框架。這篇文章主要針對開發者，他們正在探索用 AI 和 agent（代理）來協調任務的過程。\n\n### 目標讀者：\n文章的主要目標讀者是軟件工程師和技術主管，特別是在考慮如何利用 AI 技術來提高"
+    },
+    {
+      "date": "2026-04-22 01:18:37",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260422_011837_.md",
+      "tags": "科技, AI, 物联网",
+      "summary": "### 第一層：白話解構\n\n#### 文章在講什麼？\n- ClawStage是一款開放且模組化的硬體平台，旨在讓OpenClaw將本地智能轉換成物理行為。\n- 它提供顯示、聲音、感測器和物理存在，讓AI角色可以在你的家中自然存在。\n- 不僅是更聰明的家電，它是一個擁有靈魂的家——你創造出來的。\n\n#### 主要在說什麼故事或概念？\n文章介紹了一個名為ClawStage的硬體平台，其目標是透過模組化"
+    },
+    {
+      "date": "2026-04-21 22:23:00",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_222300_GitHub 爆紅144個AI員工職位 .md",
+      "tags": "GitHub, AI職位, 免費招募",
+      "summary": "### 第一層：白話解構\n\n#### 用最簡單的話解釋：\n文章介紹了一個標題為「GitHub爆紅」的文章，提到 GitHub 上有一個由144個AI員工組成的職位開源並免費使用。這篇文章提到了不同的部門都有各自的AI員工角色、性格以及工作流程和KPI。\n\n#### 主要在說什麼故事或概念？\n文章主要是介紹了GitHub上一个包含144个AI员工岗位的职业描述，这些职位属于不同的部门，并且每个AI员"
+    },
+    {
+      "date": "2026-04-21 21:29:15",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_212915_.md",
+      "tags": "[網路資源], [工具翼零], [DeTools]",
+      "summary": "### 第一層：白話解構\n#### 這篇文章在講什麼？\n文章主要介紹了如何將 Codex（一個AI編排框架）轉化為多代理開發團隊的使用方式，並分享了一些工具和資源。\n\n#### 主要在說什麼故事或概念？\n文章提供了一套指南，教导读者如何通过将Codex与其他工具结合使用来提升其功能，使其适用于开发团队。这包括推荐特定的应用程序、资源以及一些技术细节。\n\n#### 目標讀者是誰？\n目標讀者是那些已经"
+    },
+    {
+      "date": "2026-04-21 21:24:19",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_212419_請提供需要提取關鍵資訊的內容我才能按照你.md",
+      "tags": "待分類",
+      "summary": "好的，以下是您提供的內容的完整四層分析。\n\n### 第一層：白話解構\n這篇文章提供了一些基本的幫助指示。\n- 主要目標是為那些需要一些基本幫助的人準備了一些基本指南。\n- 目標讀者主要是那些尋找簡單解決方案或操作指引的人。\n\n### 第二層：技術驗證\n**claims**：\n- 無特定 claims，僅為提供幫助指引。\n\n**有根據的 claim**：\n- 由於文章未提供具体的事实性声明，因此没有"
+    },
+    {
+      "date": "2026-04-21 20:55:48",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_205548_Save Your Token.md",
+      "tags": "工具, 文件分析, 大语言模型",
+      "summary": "### 第一層：白話解構\n\n**文章在講什麼？**\n本文介紹了一款能自動處理網頁、PDF 和 Office 文檔的工具。這款工具名為「Save Your Token」，適用於兩個系統：Hermes Agent 和 OpenClaw。它的核心功能是將複雜的文字轉換成簡單易讀的 Markdown 格式，從而節省了大型機器學習模型（LLM）使用的令牌數量。\n\n**主要在說什麼故事或概念？**\n文章描述了"
+    },
+    {
+      "date": "2026-04-21 20:02:12",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_200212_根據提供的內容內容看起來包含了一段Jav.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n這篇文章主要講述了兩家設計公司的新產品發布，Huashu Design 推出了一款能用 Prompt（提示）生成原型、簡報和動畫的工具，而另一家公司 Claude Design 则因其新產品被逆向開源。\n\n### 第二層：技術驗證\n\n- **claims**:\n  - Huashu Design 提出了他們的新產品，可以通過 Prompt 創建設計作品。\n  - Cla"
+    },
+    {
+      "date": "2026-04-21 16:45:58",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_164558_Recordly.md",
+      "tags": "工具, 程式碼, 開源",
+      "summary": "### 第一層：白話解構\n\n#### What is Recordly?\n- **Recordly** 是一款屏幕录制与编辑工具，适用于制作 walkthroughs、demos、产品视频等。\n- 它可以自动突出显示活动，提供平滑的光标移动效果，并将最终组合放入样式化的框架中。\n- 可以直接从录制跳转到编辑界面，支持录音麦克风声音和系统声音。\n\n#### 核心功能\n- **自動縮放、指標整修及風格"
+    },
+    {
+      "date": "2026-04-21 15:02:38",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_150238_.md",
+      "tags": "[網路資源], [DeTools工具翼零], [雲端服務]",
+      "summary": "## 第一層：白話解構\n\n### 解釋文章內容\n\n這篇文章在講什麼？（用三句話說完）\n- 介紹了一個新的功能，即 Cloudflare 的 Agent Skills，能夠將其服務能力模組化，讓AI Agent可以直接操作雲端服務。\n- 主要在說明如何使用這個新功能，以及它們為使用者帶來的便利性。\n- 目標讀者是希望了解和利用Cloudflare功能的開發人員、系統管理者和其他相關技術人士。\n\n##"
+    },
+    {
+      "date": "2026-04-21 14:58:34",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_145834_OpenClaw - 網站介面和樣式設定.md",
+      "tags": "網頁設計, 網站介面, 自動化設置",
+      "summary": "### 第一層：白話解構\n- **這篇文章在講什麼？**\n  - 文章描述了一些CSS和JavaScript的配置代码，特别是涉及到一些主题颜色设置和滚动条透明度控制。\n  - 主要在介绍一种前端主题切换功能及其实现细节。\n  - 目标读者是开发者或对前端开发有一定了解的人。\n\n### 第二層：技術驗證\n- **這篇文章的 claims 有哪些？**\n  - 文章声称介绍了如何使用JavaScri"
+    },
+    {
+      "date": "2026-04-21 09:29:15",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260421_092915_.md",
+      "tags": "",
+      "summary": "### 第一層：白話解構\n\n#### 1. 發布文章的背景及主題：\n這篇文章的作者分享了他在開發一個用來管理知識和技術資料的wiki系統（名為Vault-for-LLM）的故事。他講述了自己在這個過程中遇到的一些挑戰，以及解決這些挑戰的方法。\n\n#### 2. 主要故事或概念：\n文章主要描繪了一個AI助手是如何管理和編輯其知識庫的過程。作者描述了如何將不同的知識和信息分層組織，并建立一套系統來管理"
+    },
+    {
+      "date": "2026-04-20 21:12:58",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_211258_為什麼你的 AI 對話會越聊越卡.md",
+      "tags": "AI 技術, 教育資源, 數據科學",
+      "summary": "### 第一層：白話解構\n這篇文章主要介紹了為什麼人們使用的AI對話會變得越來越卡頓。作者通過一個實際的實驗，展示了在使用ChatGPT等AI工具時如何有效控制上下文窗口（Context Window），以確保 AI 可靠且高效地工作。文章指出，當上下文窗口接近最大限制时，便会表现出一系列问题，包括回答变慢、理解偏差和对话质量下降。文章总结了有效的使用策略，并强调在使用AI工具时需要注意一些细节，"
+    },
+    {
+      "date": "2026-04-20 20:26:19",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_202619_.md",
+      "tags": "[Claude Code, Web To-Do List, 敏捷三叔公的學習之旅]",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n文章介紹了如何使用 Claude Code，從零開始建立一個簡單的 Web To-Do List 軟體應用程式。\n\n#### 主要在說什麼故事或概念？\n文章描述了一個創建小型應用程式的過程，包括架構設計、技術選用和開發實作。\n\n#### 目標讀者是誰？\n目標讀者是對 Claude Code 有興趣的初階使用者或想要從零開始學習如何建立自己的"
+    },
+    {
+      "date": "2026-04-20 20:13:43",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_201343_.md",
+      "tags": "程式開發, AI工具, 自助代理",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n- 文章介紹了一個名為 KohakuTerrarium 的框架，用於開發代理。\n- 它提供了一系列工具和功能來創建不同的代理，這些代理可以嵌入到其他程式中使用或單獨運行。\n- 這個框架允許用戶輕鬆地建立新的代理，而不需要從頭開始重建整個系統。\n\n#### 主要在說什麼故事或概念？\n- 文章描述了一個能夠快速創建代理的框架（KohakuTer"
+    },
+    {
+      "date": "2026-04-20 14:29:54",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_142954_.md",
+      "tags": "程式語言, 大規模語言模型, C/C++",
+      "summary": "### 第一層：白話解構\n\n這篇文章介紹的是 `llama.cpp`，一個用 C/C++ 語言實現的長文本生成模型（LLM）推理工具。文章概述了其特點和使用方法，並提到了一些近期更新。\n\n#### 主要講述的故事或概念\n- `llama.cpp` 是一個輕鬆設定且性能卓越的 LLM 推理工具。\n- 它支持多種不同架構的計算機。\n- 有各種方式可以安裝 `llama.cpp`，包括 brew、nix"
+    },
+    {
+      "date": "2026-04-20 14:24:05",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_142405_Qwen3 ASR MiniTool.md",
+      "tags": "人工智能, 音音轉文字, 學術技術",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n文章介紹了一款本地語音辨識字幕生成工具，主要功能包括轉換各種格式的音訊檔案為 SRT 字幕、實時語音辨識以及語言分割等。此外還提到新增的功能如支援多種語言及使用 GPU 加速模型來提高辨識精度。\n\n#### 主要在說什麼故事或概念？\n文章描述了一款 ASR（Automatic Speech Recognition）工具，該工具能將各種格式的"
+    },
+    {
+      "date": "2026-04-20 14:15:45",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_141545_.md",
+      "tags": "AI, 知識管理, LLM",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n- 文章作者馬驊分享了他建立的知識庫系統，用於幫助公司自动化处理常见问题和提高工作效率。\n- 他提到知识库系统包括三个知识库，并引入了三位AI图书管理员来管理这些知识库。\n- 马驊认为AI不仅可以帮助公司节省人力资源，还可以保存重要的决策过程。\n\n#### 主要在說什麼故事或概念？\n- 文章通过分享个人经验、案例分析等方式，讲述了一个AI知"
+    },
+    {
+      "date": "2026-04-20 12:35:59",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_123559_.md",
+      "tags": "科技, 集成開發環境, OpenClaw",
+      "summary": "### 第一層：白話解構\n\n這篇文章主要介紹了一個叫做 OpenClaw 的項目，這個項目是一個物理遊樂場概念。文章提到該產品利用 Kickstarter 平台進行資金籌措，並在網站上提供了一些規則和說明來幫助用戶登入或註冊。目標讀者是對創客精神、科技應用及運動健身相關資訊感興趣的民眾。\n\n### 第二層：技術驗證\n\n- **claims**:\n  - OpenClaw 是一個物理遊樂場的概念。\n"
+    },
+    {
+      "date": "2026-04-20 12:33:43",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_123343_Vault-for-LLM.md",
+      "tags": "人工智慧, 知識管理系統, LLM",
+      "summary": "## 第一層：白話解構\n\n### 何謂 Vault-for-LLM？\n\nVault-for-LLM 是一套為 LLM 應用程式的 **分層知識庫**，旨在提供任何 LLM 應用程式持久且可搜尋的記憶體。它使用 SQLite + sqlite-vec + ONNX 嵌入式技術完全運行在本地。\n\n### 主要故事或概念\n\n- Vault-for-LLM 是一套四層分類知識庫，每個層都包含不同的知識。\n"
+    },
+    {
+      "date": "2026-04-20 12:28:58",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_122858_AI 總是金魚腦談 LLM 的分層記憶架.md",
+      "tags": "#AI記憶, #LLMWiki, #KnowledgeManagement",
+      "summary": "### 第一層：白話解構\n\n**這篇文章在講什麼？**\n\n文章討論了如何讓 AI 能夠高效地存取和理解 Obsidian 這樣的知識管理系統中的筆記。作者提出了一個名为 Vault-for-LLM 的开源工具，该工具通过设计给AI使用的分层记忆架构来解决这一问题。\n\n**主要在說什麼故事或概念？**\n\n文章的核心在于描述如何在Obsidian这样的知识管理系统中为AI创建一个高效的存取和理解环境。"
+    },
+    {
+      "date": "2026-04-20 12:23:39",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_122339_.md",
+      "tags": "程式碼助理, Windows, LLM",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n文章描述了一個本地化的 LLM 程式碼助理，名为 `CodeWorker` V1.01.000，它可以在离线和受限制的环境中运行，并且优先考虑隐私和安全性。文章详细介绍了它的功能、注意事项以及安装与使用方法。\n\n#### 主要在说什么故事或概念？\n文章讲述了一个本地化的 LLM 程式码助理（CodeWorker）的功能特性及其使用方法。主要"
+    },
+    {
+      "date": "2026-04-20 11:42:26",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_114226_许逸伦的帖子.md",
+      "tags": "[遊戲開發], [機器翻譯], [AI技術]",
+      "summary": "## 第一層：白話解構\n\n### 這篇文章在講什麼？\n許逸倫分享了他使用 Cluade Code 系統開發了一個工具，這個工具能將 Google Sheet 和 Google App Script（GAS）整合在一起，實現自動翻譯功能。許逸倫認為，過去需要花費三個月到半年的手動編程現在只需要半天時間就能完成。\n\n### 主要在說什麼故事或概念？\n文章描述了一種利用开源AI模型如Qwen 3.6和本"
+    },
+    {
+      "date": "2026-04-20 11:38:14",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_113814_.md",
+      "tags": "AI, 技能開發, 人工智能",
+      "summary": "## 第一層：白話解構\n\n### 用最簡單的話解釋：\n\n- 那篇文章講的是如何利用 AI 技術來優化任務操作，提高工作效率。\n- 主要分享了一個使用 Claude AI 的流程，從訓練到測試再到优化的过程。\n- 目標讀者是對 AI 技術有興趣的用戶，尤其是那些希望提升自己任務操作效率的人。\n\n## 第二層：技術驗證\n\n### 這篇文章的 claims 有哪些？\n\n1. **第一步**：讓 Clau"
+    },
+    {
+      "date": "2026-04-20 11:05:21",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_110521_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n這篇文章在講什麼？\n- Claude Code 是一個區塊鏈應用程式庫，現在它改用原生二進制編碼來運行 CLI 命令行指令，不再依賴 Node.js。\n- 主要在說 Claude Code 的更新，將其從 Node.js 服務器端解決方案轉移到了原生二進制，以提高 CLI 起始速度。\n- 目標讀者是對區塊鏈應用程式庫和技術有興趣的開發人員。\n\n### 第二層：技術驗證\n"
+    },
+    {
+      "date": "2026-04-20 10:18:12",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_101812_Khazix Skills.md",
+      "tags": "技術, 機器學習, AI",
+      "summary": "### 第一層：白話解構\n這篇文章是在分享卡兹克（Khazix）積累的Prompt和技能，這些工具旨在幫助用戶進行深度研究和寫作。文章提到了一些具體的例子，如橫縱分析法，以及它們如何在不同的平臺上使用。\n\n### 第二層：技術驗證\n- **claims**：\n  - 横縱分析法是一個可以輕鬆複製粘貼到任何深層研究模型中的通用框架。\n  - hv-analysis技能是一種自動化收集信息並生成專業報"
+    },
+    {
+      "date": "2026-04-20 10:10:18",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_101018_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n#### 用最簡單的話解釋：\n- 这篇文章是在描述一套基于 CSS 的颜色主题定义。\n- 它提供了一系列不同的颜色代码和名称，用于网站的背景色、按钮、图标等不同部分。\n- 目标读者主要是需要配置网站配色方案的专业人员或开发者。\n\n### 第二層：技術驗證\n\n#### 這篇文章的 claims 是：\n1. 提供了一系列的颜色值定义（如 `--accent` 和 `--wh"
+    },
+    {
+      "date": "2026-04-20 07:08:37",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_070837_time-master.md",
+      "tags": "個人管理, 純文字存儲, Open Source",
+      "summary": "### 第一層：白話解構\n\n#### 這篇文章在講什麼？\n文章在討論彼得·杜拉克（Peter Drucker）在其著作《成效管理》中关于时间管理的观点，强调了有效执行者需要先了解自己实际花费了多少时间，并在此基础上减少浪费、将可用于创造贡献与成果的时间集中起来。文章提出了一种个人操作系统的工作流程：每天记录工作内容，每周撰写反思报告，季度和年度设定OKR（Objectives and Key Re"
+    },
+    {
+      "date": "2026-04-20 07:04:22",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260420_070422_.md",
+      "tags": "人工智能, 自然語言處理, 代理程式",
+      "summary": "### 第一層：白話解構\n\n#### 用三句話說完這篇文章在講什麼？\n这篇文章介紹了一个名为 `Browser Harness` 的工具，它提供了一个轻量级的代理来帮助大型语言模型（LLM）执行浏览器任务，并且这个工具是自愈式的。作者使用 Python 写了一个代理脚本，并提供了一些示例和文档。\n\n#### 主要說的是什麼故事或概念？\n文章讲述了一种新的浏览器代理工具 `Browser Harne"
+    },
+    {
+      "date": "2026-04-19 14:21:57",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_142157_Autoreason 自我精進懂得適時停.md",
+      "tags": "人工智能, 自我優化, 遞迴優化",
+      "summary": "### 第一層：白話解構\n\n#### 發文在講什麼？\n這篇文章主要是介紹 Autoreason，一種新的模型自我檢驗技術。Autoreason 解決了迭代自我優化中的三個問題：(prompt bias, scope creep, and lack of restraint)。它通過使用新鮮的評估代理人來評估不同版本（unchanged incumbent, adversarial revision"
+    },
+    {
+      "date": "2026-04-19 14:12:10",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_141210_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n這篇文章主要在介紹一種名為 Autoreason 的技術，它解決了迭代自我審閱過程中可能會出現的三種問題：(prompt bias、scope creep 和 lack of restraint)。Autoreason 可以自動評估版本之間的不同，並根據最新的評價來決定是否需要進行修改或保持不變。文章主要集中在一種新的方法上，該方法通過使用多個獨立評審者來確保結果的可靠"
+    },
+    {
+      "date": "2026-04-19 14:04:56",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_140456_資訊提取失敗.md",
+      "tags": "待分類",
+      "summary": "## 第一層：白話解構\n\n### 這篇文章在講什麼？\n\n- 这篇文章讲述了 Andrej Karpathy 的看法，他认为一个人用 AI 辅助完成的工作量已经达到了团队规模。\n- 同时，作者 Garry Tan 分享了他如何利用 `gstack` 工具实现这一目标。该工具是一个虚拟的工程团队结构，可以协助项目管理和发布。\n- 作者强调了在个人和企业中使用 `gstack` 的好处，并提供了一些基本"
+    },
+    {
+      "date": "2026-04-19 13:30:44",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_133044_.md",
+      "tags": "程式碼, GitHub, Copilot",
+      "summary": "### 第一層：白話解構\n\n#### 説什麼？\n- 文章主要在描述一套與GitHub相关的設定及架構，特別是指定Garry Tan的Claude程式碼配置。\n- Garry Tan利用他的Claude程式碼來做GitHub的特定設定和架構。\n- 目標讀者是對GitHub開發環境有興趣或正在使用GitHub的人。\n\n### 第二層：技術驗證\n\n#### claims 有哪些？\n1. 文章声称Garr"
+    },
+    {
+      "date": "2026-04-19 12:50:12",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_125012_根據提供的內容我將其轉換為所需的格式.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n\n這篇文章在講什麼？(用三句話說完)\n文章是在描述一段測試內容，主要是為了驗證某個系統或功能是否正常運作。\n\n主要在說什麼故事或概念？\n文章通過一段測試來展示如何確認某項應用或服務的準確性和可用性。概念上是技術驗證與測試報告。\n\n目標讀者是誰？\n這篇文章針對的是需要進行技術測試的人群，包括工程師、開發人員和系統管理者等專業人士。\n\n### 第二層：技術驗證\n\n這篇文章的 "
+    },
+    {
+      "date": "2026-04-19 12:41:42",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_124142_根據您提供的內容進行填充.md",
+      "tags": "待分類",
+      "summary": "### 第一層：白話解構\n- **文章在講什麼？**：這是篇文章的開頭，似乎是一段測試文字，沒有具體主題或故事。\n- **主要在說什麼故事或概念？**：此篇文章看似是一個測試用的文字材料，並沒有特別的故事或概念。\n- **目標讀者是誰？**：沒有特定標籤，可能對所有人開放。\n\n### 第二層：技術驗證\n- **文章的 claims 有哪些？**\n    - 沒有明確的 claims（斷言）。\n- "
+    },
+    {
+      "date": "2026-04-19 12:37:56",
+      "file": "C:\\butler_sumo\\library\\SumoNoteBook\\research\\study_20260419_123756_測試.md",
+      "tags": "測試, 示範, 内容",
+      "summary": "### 第一層：白話解構\n- **文章在講什麼？**  \n  文章是在做一個測試，並提出了幾個示例來展示如何進行測試。\n- **主要在說什麼故事或概念？**  \n  機制的開發人員正在進行測試以確保系統功能正常和系統兼容性。\n- **目標讀者是誰？**  \n  目標讀者似乎是機制的開發人員，特別是在他們需要檢查新功能是否按預期工作的情況下。\n\n### 第二層：技術驗證\n- **這篇文章的 clai"
+    }
+  ]
+}

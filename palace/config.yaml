@@ -1,0 +1,119 @@
+# SumoNoteBook Palace 宮殿設定
+
+palace:
+  name: "SumoNoteBook Palace"
+  description: "蘇茉家族知識宮殿"
+  version: "1.0"
+  created: "2026-04-09"
+
+# 房間定義
+rooms:
+  - id: "entrance"
+    name: "Entrance 大門"
+    description: "入口大廳 - 總索引與最近更新"
+    icon: "🚪"
+    connections:
+      - "library"
+      - "workshop"
+      - "garden"
+    items:
+      - type: "index"
+        path: "Sumo_wiki/index.md"
+      - type: "log"
+        path: "Sumo_wiki/log.md"
+
+  - id: "library"
+    name: "Library 圖書館"
+    description: "概念知識庫 - 蘇茉家族核心知識"
+    icon: "📚"
+    connections:
+      - "entrance"
+      - "workshop"
+      - "archive"
+    items:
+      - type: "folder"
+        path: "Sumo_wiki/concepts/"
+      - type: "folder"
+        path: "Sumo_wiki/summaries/"
+      - type: "folder"
+        path: "closet/formal/"
+
+  - id: "workshop"
+    name: "Workshop 工坊"
+    description: "工作區 - 腳本、提示詞、工作流"
+    icon: "🔧"
+    connections:
+      - "entrance"
+      - "library"
+      - "drawer"
+    items:
+      - type: "folder"
+        path: "Sumo_wiki/workflows/"
+      - type: "folder"
+        path: "Sumo_wiki/prompts/"
+      - type: "folder"
+        path: "scripts/"
+
+  - id: "garden"
+    name: "Garden 花園"
+    description: "休閒區 - 生活、興趣、學習"
+    icon: "🌸"
+    connections:
+      - "entrance"
+      - "library"
+    items:
+      - type: "folder"
+        path: "closet/casual/"
+      - type: "folder"
+        path: "learning/"
+
+  - id: "drawer_room"
+    name: "Drawer 抽屜"
+    description: "臨時工作區 - 處理中的任務"
+    icon: "🗃️"
+    connections:
+      - "workshop"
+    items:
+      - type: "folder"
+        path: "drawer/inbox/"
+      - type: "folder"
+        path: "drawer/processing/"
+      - type: "folder"
+        path: "drawer/drafts/"
+
+  - id: "archive"
+    name: "Archive 檔案室"
+    description: "歸檔區 - 歷史知識"
+    icon: "📦"
+    connections:
+      - "library"
+    items:
+      - type: "folder"
+        path: "closet/archive/"
+      - type: "folder"
+        path: "raw/processed/"
+
+# 捷徑（快速跳轉）
+shortcuts:
+  - name: "最新知識"
+    target: "entrance"
+    description: "查看最近更新的知識"
+  
+  - name: "搜尋"
+    target: "library"
+    description: "進入圖書館搜尋"
+  
+  - name: "處理中"
+    target: "drawer_room"
+    description: "查看正在處理的任務"
+
+# 宮殿導覽設定
+navigation:
+  default_path:
+    - "entrance"
+    - "library"
+    - "workshop"
+  
+  max_rooms_per_walk: 5
+  show_item_preview: true
+  enable_random_walk: true

@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "master",
+    "field": "mood",
+    "value": {
+      "from": "normal",
+      "to": "開心"
+    },
+    "timestamp": "2026-04-25T05:28:05.541852"
+  },
+  {
+    "entity": "master",
+    "field": "research",
+    "value": {
+      "topic": "股票分析"
+    },
+    "timestamp": "2026-04-25T05:28:05.542656"
+  },
+  {
+    "entity": "sunny",
+    "field": "application",
+    "value": {
+      "school": "台大",
+      "status": "面試中",
+      "notes": "已完成第一階段",
+      "updated": "2026-04-25"
+    },
+    "timestamp": "2026-04-25T05:28:05.543287"
+  },
+  {
+    "entity": "sunny",
+    "field": "exam",
+    "value": {
+      "exam": "學測",
+      "score": 55,
+      "previous": null
+    },
+    "timestamp": "2026-04-25T05:28:05.543891"
+  },
+  {
+    "entity": "stock",
+    "field": "2330",
+    "value": {
+      "action": "buy",
+      "quantity": 100,
+      "price": 800,
+      "notes": ""
+    },
+    "timestamp": "2026-04-25T05:28:05.544486"
+  }
+]
